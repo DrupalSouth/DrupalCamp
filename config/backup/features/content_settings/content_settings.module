@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Content: settings feature.
+ */
+
+include_once 'content_settings.features.inc';
